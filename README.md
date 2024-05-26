@@ -26,7 +26,7 @@ Radiante: XP maior ou igual a 10.001
 Objetivo
 Exibir a mensagem: "O Herói de nome {nome} está no nível de {nivel}"
 Linguagem: JavaScript
-🔗 Link para o código
+🔗 (https://github.com/KizzyGiacomozze/Desafios-de-logica/commit/4a77d585d2658b26721683ffe4130ff8d6dc67ee)
 
 💻 Como Visualizar e Executar o Código
 Para visualizar o código, você pode clicar nos links acima que o levarão aos arquivos individuais de cada desafio.
