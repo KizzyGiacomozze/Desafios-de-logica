@@ -26,22 +26,6 @@ Radiante: XP maior ou igual a 10.001
 Objetivo
 Exibir a mensagem: "O Herói de nome {nome} está no nível de {nivel}"
 Linguagem: JavaScript
-🔗 (https://github.com/KizzyGiacomozze/Desafios-de-logica/commit/4a77d585d2658b26721683ffe4130ff8d6dc67ee)
-
-💻 Como Visualizar e Executar o Código
-Para visualizar o código, você pode clicar nos links acima que o levarão aos arquivos individuais de cada desafio.
-
-Se quiser executar o código localmente, siga estas instruções:
-
-Clone o repositório para o seu computador:
-sh
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do desafio que você deseja executar:
-sh
-Copiar código
-cd nome-do-diretorio
-Execute o código usando o interpretador ou compilador adequado para a linguagem utilizada (por exemplo, Python, Java, etc.).
 
 🤝 Contribuições
 Se você tiver sugestões, correções ou quiser colaborar de alguma forma, sinta-se à vontade para abrir uma issue ou enviar um pull request. Toda ajuda é bem-vinda!
